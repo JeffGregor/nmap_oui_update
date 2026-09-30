@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
   Script: nmap_oui_update.py
 
