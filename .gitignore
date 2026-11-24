@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Script runtime output
+backups/
+ieee_oui_data.txt
+nmap-mac-prefixes_updated
